@@ -13,3 +13,6 @@ Most of the assignments below are designed to run on Unity 2020.3.12f1 or newer.
 
 ## Lab 2:
 - Perform a series of exercises as listed on this [Unity link](https://learn.unity.com/tutorial/using-c-to-launch-projectiles?uv=2020.1)
+
+## Lab 3:
+- Perform a series of exercises, in Unit 1, as listed on this [Unity link](https://learn.unity.com/course/create-with-code)
